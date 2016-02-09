@@ -12,3 +12,13 @@ h1 {
   font-size: 24px;
   color: red;
 }
+
+nav{
+  background-color: purple;
+  padding-left: 25px;
+}
+
+footer{
+  font-size: 11px;
+  font-style: italic;
+}
